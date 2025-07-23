@@ -52,7 +52,7 @@ Kadane’s Algorithm maintains a running maximum sum ending at the current index
 
 ---
 
-## 5. **Largest Number **
+## 5. **Largest Number**
 **Problem:**  
 Find the largest number in an array.
 
