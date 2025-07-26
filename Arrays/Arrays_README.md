@@ -1,6 +1,6 @@
 # Arrays
 
-This folder contains Java, Python and C++ implementations of essential array-based problems covered in the Alpha DSA course by Apna College. Each file addresses a specific problem with a well-structured approach, along with time and space complexity analysis.
+This folder contains Java, Python and C++ implementations of essential array-based problems covered in the Alpha DSA course by Apna College.
 
 ---
 
