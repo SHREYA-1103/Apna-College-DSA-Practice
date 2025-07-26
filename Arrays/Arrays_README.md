@@ -347,6 +347,7 @@ Output: `9`
 `height = [4, 2, 0, 6, 3, 2, 5]`  
 - `leftMax = [4, 4, 4, 6, 6, 6, 6]`  
 - `rightMax = [6, 6, 6, 6, 5, 5, 5]`
+
 Water trapped at each index:  
 - i=0 → min(4,6) - 4 = 0  
 - i=1 → min(4,6) - 2 = 2  
