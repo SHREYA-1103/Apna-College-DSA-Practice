@@ -1,6 +1,6 @@
 # Linked List 
 
-This folder contains Java implementations of key Linked List problems commonly practiced in the Alpha DSA course by Apna College. The problems cover singly, doubly, and circular linked list operations, cycle detection, reversal, and complex reordering.
+This folder contains Java implementations of key Linked List problems commonly practiced in the Alpha DSA course by Apna College. 
 
 ---
 
