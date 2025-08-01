@@ -70,7 +70,7 @@ Array = [1, 1, 1, 1]
 **Approach:**  
 Use nested loops. The outer loop iterates over the first element of the pair, and the inner loop picks the second element. Count all such combinations.
 
-**Time Complexity:** O(n²) or O(1)
+**Time Complexity:** O(n²) or O(1) - using direct formula
 **Space Complexity:** O(1)
 
 ---
